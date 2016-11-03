@@ -1,0 +1,6 @@
+G:\Enterprise\Assignment1CarFactory\Assignment1CarFactory\bin\Debug\Assignment1CarFactory.exe.config
+G:\Enterprise\Assignment1CarFactory\Assignment1CarFactory\obj\Debug\Assignment1CarFactory.csprojResolveAssemblyReference.cache
+G:\Enterprise\Assignment1CarFactory\Assignment1CarFactory\bin\Debug\Assignment1CarFactory.exe
+G:\Enterprise\Assignment1CarFactory\Assignment1CarFactory\bin\Debug\Assignment1CarFactory.pdb
+G:\Enterprise\Assignment1CarFactory\Assignment1CarFactory\obj\Debug\Assignment1CarFactory.exe
+G:\Enterprise\Assignment1CarFactory\Assignment1CarFactory\obj\Debug\Assignment1CarFactory.pdb

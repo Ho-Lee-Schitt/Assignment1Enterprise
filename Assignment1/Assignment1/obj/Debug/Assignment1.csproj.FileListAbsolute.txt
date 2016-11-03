@@ -1,0 +1,10 @@
+G:\Enterprise\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+G:\Enterprise\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+G:\Enterprise\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+G:\Enterprise\Assignment1\Assignment1\bin\Debug\EntityFramework.dll
+G:\Enterprise\Assignment1\Assignment1\bin\Debug\EntityFramework.SqlServer.dll
+G:\Enterprise\Assignment1\Assignment1\bin\Debug\EntityFramework.xml
+G:\Enterprise\Assignment1\Assignment1\bin\Debug\EntityFramework.SqlServer.xml
+G:\Enterprise\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+G:\Enterprise\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+G:\Enterprise\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
