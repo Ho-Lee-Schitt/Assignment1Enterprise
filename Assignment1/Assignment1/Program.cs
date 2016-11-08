@@ -150,9 +150,14 @@ namespace Assignment1
                 }
                 else
                 {
-                    Console.WriteLine("No Course with that Code");
+                    Console.WriteLine("No Course with that Code.");
                 }// End IF
-            }// End IF
+            }
+            else
+            {
+                Console.WriteLine("Invalid Course Code. Please re-enter your selection");
+                Console.WriteLine();
+            }// End If
             Console.WriteLine();
         }// End courseLookup
 
@@ -203,7 +208,7 @@ namespace Assignment1
             }
             else
             {
-                Console.WriteLine("No Module with that Code");
+                Console.WriteLine("No Module with that Code.");
             }// End IF
             Console.WriteLine();
         }// End moduleLookup
@@ -256,6 +261,10 @@ namespace Assignment1
                     Console.WriteLine(String.Format("|{0,-56}|{1,-15}|", "Overall Average", (averageGrade / query1.Count())));
                     printTableLine(tableLength);
                 }// End IF
+            }
+            else
+            {
+                Console.WriteLine("No Student with that number.");
             }// End IF
             Console.WriteLine();
         }// End studentLookup
