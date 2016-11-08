@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'G:\Enterprise\Assignment1\Assignment1\UniModel.edmx'. 
+﻿// T4 code generation is enabled for model 'U:\private\Enterprise Computing\git\Assignment1Enterprise\Assignment1\Assignment1\UniModel.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
